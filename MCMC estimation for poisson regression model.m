@@ -1,4 +1,3 @@
-%------------------------------Q1--------------------------------------%
 rng(2020) % Fix the random seed
 x_j = rand(100,4) % Generate covariates Xij ~ U(0,1) i = 100, j =4
 o = ones(100,1) 
